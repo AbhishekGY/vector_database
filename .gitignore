@@ -5,3 +5,4 @@ __pycache__/
 *.egg-info/
 *.npy
 .ipynb_checkpoints/
+tiny-vector-db-plan.md
